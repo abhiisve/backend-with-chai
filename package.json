@@ -1,0 +1,18 @@
+{
+  "name": "backend_realone",
+  "version": "1.0.0",
+  "description": "backend sikhne ki journey frontend gaya ma chudane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "front-end",
+    "is",
+    "gone",
+    "chai"
+  ],
+  "author": "Abhinay Singh",
+  "license": "ISC"
+}
