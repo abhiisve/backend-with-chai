@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "backend sikhne ki journey frontend gaya ma chudane",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,8 @@
     "chai"
   ],
   "author": "Abhinay Singh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
