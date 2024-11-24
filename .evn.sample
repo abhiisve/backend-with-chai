@@ -1,0 +1,2 @@
+PORT = 8000
+MongoDB_URI = mongodb+srv://sabhinay427:Arkbc@123@cluster0.7tl91.mongodb.net
